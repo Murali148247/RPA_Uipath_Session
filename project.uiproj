@@ -1,0 +1,6 @@
+{
+  "Name": "PDF_Activities",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
